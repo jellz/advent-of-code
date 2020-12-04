@@ -1,2 +1,4 @@
 # advent-of-code
-Advent of Code solutions
+My Advent of Code solutions
+
+This will not be regularly updated, and code won't be pretty or optimised
